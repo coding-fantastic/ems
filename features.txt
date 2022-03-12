@@ -1,0 +1,35 @@
+Features
+
+    Login Page
+
+    Home/Dashboard Page
+
+    Department Management
+        Add New Department
+        List All Departments
+        Update Department Details
+        Delete Department Details
+    
+    Position Management
+        Add New Position
+        List All Positions
+        Update Position Details
+        Delete Position Details
+    
+    Employees Management
+        Add New Employee
+        List All Employees
+        Update Employee Details
+        View Employee Details
+        Delete Employee Details
+    
+    Logout
+    
+    User Authentication
+
+
+Access Information
+
+SuperUser
+Username: admin
+Password: admin123
